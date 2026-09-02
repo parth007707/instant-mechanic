@@ -1,0 +1,6 @@
+{
+  "name": "Instant Mechanic",
+  "description": "Live Vehicle Service Operations Dashboard for monitoring bookings, customers, vehicles, mechanics, services, and revenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
